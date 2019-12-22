@@ -23,7 +23,7 @@ Context Root (localhost:XXXX/odi)
 
 - 스프링이나 마이바티스 등의 프레임워크를 사용하지 않고 구현했습니다.
 
-### Contribute
+### Contributer
 * 이종배 - Order, Payment - [kokakala]
 * 김현지 - Member - [multile959]
 * 임창수 - Main, Login, Search - [humormagnate]
