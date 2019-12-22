@@ -13,17 +13,17 @@
 
 ### Instruction manual
 1. Test 계정
-> ID : user01
-> PW : qweqwe123
+- ID : user01
+- PW : qweqwe123
 
 ### Environment
 Server : Apache-Tomcat 8.5.45
 
 "Context Root (localhost:XXXX/odi)"
-Java 8
-Persistence : Oracle 11g XE, Oracle JDBC
-FE : HTML5, JavaScript, jQuery, CSS3
-SCM : Git Bash, GitHub
+-Java 8
+-Persistence : Oracle 11g XE, Oracle JDBC
+-FE : HTML5, JavaScript, jQuery, CSS3
+-SCM : Git Bash, GitHub
 
 *스프링이나 마이바티스 등의 프레임워크를 사용하지 않고 구현했습니다.
 
