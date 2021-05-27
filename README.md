@@ -28,7 +28,6 @@ Context Root (localhost:XXXX/odi)
 * 김현지 - Member - [multile959]
 * 임창수 - Main, Login, Search - [humormagnate]
 * 한도빈 - Admin - [Han9005]
-* 홍윤진 - Owner - [yoonjinhong]
 
 See also the list of contributors who participated in this project.
 
